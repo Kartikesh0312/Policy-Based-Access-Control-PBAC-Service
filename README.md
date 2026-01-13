@@ -1,4 +1,5 @@
-# Policy-Based-Access-Control-PBAC-Service
+# policy-access-service
+
 This service demonstrates how modern backend systems enforce fine-grained access control based on user attributes, resource context, and custom policies.
 
 A production-style backend authorization service that implements Policy-Based Access Control (PBAC) using dynamic, rule-driven authorization instead of traditional role-based access control (RBAC).
